@@ -1,4 +1,4 @@
-PopApps-Monitor
+PopApps Monitor
 ===============
 
-Simple Web Apps Monitor Tool
+Simple web-based tool for monitoring web applications
